@@ -11,8 +11,7 @@ Discover trends, pattern and insights on the COVID-19 pandemic. So that the reso
 Data Set
 
 The source of this data is from Kaggle on a new coronavirus designated 2019-nCoV which was first identified in Wuhan, the capital of China's Hubei province. : The data was compiled and scraped from the https://www.worldometers.info/coronavirus/ website so should be fairly dependable.
-![image](https://github.com/smritibhattarai/Covid-19-Analysis/assets/152653531/6ac54e1d-4edc-4e20-88b6-6abae3162c6d)
-.
+
 
 Visualization
 
